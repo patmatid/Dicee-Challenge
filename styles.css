@@ -21,19 +21,6 @@ h1 {
   color: #4ECCA3;
 }
 
-.fa-flag {
-  position: relative;
-}
-
-.player1-flag {
-  right: 50px;
-}
-
-.player2-flag {
-  position: relative;
-  left: 50px;
-}
-
 p {
   font-size: 2rem;
   color: #4ECCA3;
@@ -45,7 +32,7 @@ img {
 }
 
 footer {
-  margin-top: 25%;
+  margin-top: 5%;
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
